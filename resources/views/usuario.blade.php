@@ -1,3 +1,4 @@
+
 <form method='POST' action='/usuario/salvar'>
     @csrf
     Nome:<input type='text' name ='nome'><br>
@@ -30,3 +31,4 @@
         }
     });
 </script>
+
